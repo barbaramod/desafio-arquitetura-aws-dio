@@ -1,6 +1,6 @@
 # Desafio de Arquitetura AWS - DIO 🚀
 
-Este projeto faz parte do desafio da **Digital Innovation One (DIO)** para consolidar conhecimentos em **AWS EC2, S3 e Lambda**.
+Este projeto faz parte do desafio do curso **Gerenciando Instâncias EC2 na AWS**, parte do **Bootcamp Code Girls** para consolidar conhecimentos em **AWS EC2, S3 e Lambda**.
 
 ## 📌 Objetivo
 Criar um **diagrama de arquitetura em nuvem** usando [draw.io](https://www.drawio.com), representando o fluxo de dados entre serviços AWS.
